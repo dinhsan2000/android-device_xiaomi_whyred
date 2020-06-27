@@ -31,9 +31,6 @@ $(call inherit-product, vendor/superior/config/common.mk)
 #Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
 
-# Inherit from custom vendor
-#$(call inherit-product, vendor/xiaomi/MiuiCamera/config.mk)
-
 PRODUCT_NAME := superior_whyred
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
