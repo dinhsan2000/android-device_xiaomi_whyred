@@ -12,3 +12,6 @@ type dirac_prop, property_type;
 
 # Power
 type power_prop, property_type;
+
+#Camera
+type vendor_camera_prop, property_type;
